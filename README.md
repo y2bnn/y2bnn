@@ -6,7 +6,7 @@
 
 **Duksung Women's University**
 
-- Major: Computer Science
+- Major: Digital Software Engineering
 
 ## Skills
 
